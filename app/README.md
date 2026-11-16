@@ -59,7 +59,7 @@ Precisa aparecer ✓ em **Flutter**, **Android toolchain** e **Chrome**. O item 
 ## 5. Baixar o projeto e configurar o Supabase
 
 ```bash
-git clone https://github.com/luizhenriqueperinif/Tennis_App.git
+git clone https://github.com/NF-Sistemas/Tennis_App.git
 cd Tennis_App/app
 flutter pub get
 ```
